@@ -1,0 +1,23 @@
+{
+  "name": "archivocreadonode",
+  "version": "1.0.0",
+  "main": "appendfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferlucena/archivoCreadoNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferlucena/archivoCreadoNode/issues"
+  },
+  "homepage": "https://github.com/Ferlucena/archivoCreadoNode#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
