@@ -1,4 +1,4 @@
-# Proyecto práctico petición de un archivo HTML con el módulo fs de Node
+# Proyecto práctico creación de un archivo TXT con el módulo fs de Node
 
 Con el módulo fs  
 se creará un archivo txt y guardando en el raiz, demostrando que js también puede crear archivos en la pc en un entorno de servidor.
@@ -6,9 +6,9 @@ se creará un archivo txt y guardando en el raiz, demostrando que js también pu
 ## Comenzando 🚀
 
 En tu máquina local podrás trabajar con este archivo con cualquier editor y servidor local node.
-Descargarás dos archivos locales:
-index.html
-index.js
+Descargarás el archivo:
+appendfile.js
+
 
 ### Pre-requisitos 📋
 
@@ -18,7 +18,9 @@ Tambien npm version 5 en adelante
 ## Ejecutando las pruebas ⚙️
 
 Son tan sencillas y simples como ejecutar en tu terminal el comando
-node index.js
+node appendfile.js
+
+y podras observar como se crea un archivo txt en el raíz
 
 ## Construido con 🛠️
 
